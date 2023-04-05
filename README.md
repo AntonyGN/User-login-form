@@ -17,10 +17,10 @@ Click the ```Show Info``` button to display your entered username and password i
 Click the ```Clear Info``` button to clear the entered username and password from the entry widgets.
 
 ## Authors
-[AntonyGN](https://github.com/AntonyGN) - Initial work
+[AntonyGN](https://github.com/AntonyGN) - *Initial work*
 
 ## Acknowledgments
-Python Documentation - For tkinter library documentation and examples.
+[Python Documentation](https://docs.python.org/3/library/tk.html) - For tkinter library documentation and examples.
 
 
 
